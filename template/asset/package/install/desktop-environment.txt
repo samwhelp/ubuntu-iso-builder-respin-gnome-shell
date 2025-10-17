@@ -28,12 +28,13 @@ gnome-shell-extension-ubuntu-dock
 
 
 nautilus
-nautilus-extension-gnome-terminal
+#nautilus-extension-gnome-terminal
 
 
 nemo
 
 
+ptyxis
 gnome-terminal
 #mate-terminal
 lxterminal

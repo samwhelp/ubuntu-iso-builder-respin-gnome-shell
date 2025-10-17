@@ -1,6 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Default Xsession
-Exec=env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
-Icon=
-Type=Application
