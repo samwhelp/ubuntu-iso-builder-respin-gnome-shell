@@ -58,15 +58,15 @@ favorite-apps=['org.gnome.Nautilus.desktop', 'org.gnome.gedit.desktop', 'firefox
 
 
 [org.mate.applications-terminal]
-exec='sakura'
+exec='xfce4-terminal'
 exec-arg=''
 
 
-[org.gnome.desktop.default-applications.terminal:Budgie]
-exec='sakura'
+[org.gnome.desktop.default-applications.terminal]
+exec='xfce4-terminal'
 exec-arg=''
 
 
 [org.cinnamon.desktop.default-applications.terminal]
-exec='sakura'
+exec='xfce4-terminal'
 exec-arg=''
